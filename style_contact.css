@@ -15,11 +15,11 @@
 .contact .content h2{
     font-size: 36px;
     font-weight: 500;
-    color: #fff;
+    /* color: #fff; */
 }
 .contact .content p{
     font-weight: 300;
-    color: #fff;
+    /* color: #fff; */
 }
 .container{
     width: 100%;
@@ -31,7 +31,7 @@
 .container .contactInfo{
     display: flex;
     flex-direction: column;
-    color: #fff;
+    /* color: #fff; */
     width: 50%;
 }
 .container .contactInfo .box{
